@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
+<body>
 <link
   href="./style.css" type="text/css" rel="stylesheet">
-<body>
   <!-- put picture of the logo under this line-->
   <img src=""/>
   <h6 id="notice">Please note: This game is made for fun and is not ment to offend anyone, so if you are easily offended then this game is not for you.</h6>

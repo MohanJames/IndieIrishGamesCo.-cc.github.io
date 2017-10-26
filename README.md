@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <link
@@ -17,6 +16,9 @@
   <!-- put image of sprite on the line below-->
   <img scr="" alt="Sample sprite"/>
   <h4> We also are working on music, below is a sample of our music that we may use in the final product</h4>
+  <!-- add youtube video below-->
+  <video src="" width="700" height="500" controls> Video not supported </video>
+  <p>Our team of consists of five people, who are working on this game alongside of thier already bussy lives however we will try and update this website
+  with as much information about our project as possible.</p>
 </body>
 </html>
-

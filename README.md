@@ -3,22 +3,23 @@
 <body>
 <link
   href="./style.css" type="text/css" rel="stylesheet">
-  <!-- put picture of the logo under this line-->
-  <img src=""/>
-  <h6 id="notice">Please note: This game is made for fun and is not ment to offend anyone, so if you are easily offended then this game is not for you.</h6>
-  <h1>What is the objective of our game???</h1>
-  <p>Currently in development the objective of the game is to not get caught by the poliece while you are at a party. Using used cans as amunition you have to keep
-    the poliece at bay for as long as you can. For more health you can eat chicken rolls(30hp) and spice bags(50hp). You will have your "mates" with you and they can
-    either be a distraction or they can help you along the way.<br/>
-    Unfortunately we have not come up with a name for our game however feel free to let us know using the link below.</p>
-    <!-- put link for twitter here-->
-  <h4> We are currrently working on sprites for the npcs  and for the character that you play, here is a sample sprite that we have made.</h4>
-  <!-- put image of sprite on the line below-->
-  <img scr="" alt="Sample sprite"/>
-  <h4> We also are working on music, below is a sample of our music that we may use in the final product</h4>
-  <!-- add youtube video below-->
-  <video src="" width="700" height="500" controls> Video not supported </video>
-  <p>Our team of consists of five people, who are working on this game alongside of thier already bussy lives however we will try and update this website
-  with as much information about our project as possible.</p>
+  <head>
+  <title>Belvedere Roleplaying Society</title>
+</head>
+  <h1>Belvedere Roleplaying Society</h1>
+  <img src="https://clubapplive.com/media/2/opposition/2013/725588824_1380125355_belvedere_college.png"/>
+  <p>In the Belvedere Roleplaying Society we play roleplaying bord games such as dungeons and dragons, werewolf, and many more. We meet every Thursday from 4pm - 6pm.
+    We encourage anyone to come along and join, and we encourage people to act out as their character when in a game. This includes speaking out as their character, or
+    doing actions in game that their character would do. In other words you could say its like acting without a script, but you know everything about the
+  character that you are pretending to be.</p>
+    <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t34.0-12/22901267_516949155331262_1247057727_n.jpg?oh=893571bd03bf666df9301b411a6eeae7&oe=59F56357"/>
+    <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t34.0-12/22855432_517146681978176_1058501012_n.jpg?oh=415927d1346c3d99cdc6b0645d1f0a7d&oe=59F556F4"/>
+    <h2>So, how do you get involved?</h2>
+    <p> Firstly you must me a student at 
+      <a href="http://www.belvederecollege.ie/" 
+      target="_blank">Belvedere College S.J.</a> Then you can go to the Rudiments Finaly form room at 4pm on a Thursday, chances are you will hear us before you see us.
+      If you want more information get incontact with either James Mohan (Syntax Xavier), Cormac Docherty (Syntax Finaly) or Hector  Socrates Papadamakis(Rudiments Finaly).
+      You could also get in contact with Mr.Moloney (Form tutor of Rudiments Finaly). Or you can join our discord server at this <a href="https://discordapp.com/invite/EHmYvAW"
+     target="_blank">link</a>.</p> 
 </body>
 </html>
